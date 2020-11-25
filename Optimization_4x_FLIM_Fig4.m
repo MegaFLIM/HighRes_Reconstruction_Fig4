@@ -1,4 +1,7 @@
-%% this is a code to super resolve experimental SPAD data 4x using the CMOS intensity and then find out the fluorescence lifetime imaging by tail fitting. 
+%%   // (c) 2020 Areeba Fatima
+%% This code is licensed under MIT license (see LICENSE.txt for details)
+
+%%%  this is a code to super resolve experimental SPAD data 4x using the CMOS intensity and then find out the fluorescence lifetime imaging by tail fitting. 
 
 %%%  The code has following parts:
 
