@@ -1,4 +1,4 @@
-Optimization_4x_FLIM_Fig4.m is the main code for upsampling and subsequent lifetime fitting. SlideWinSum.m and decaymodelSingle.m are functions required therein.
+Optimization_4x_FLIM_Fig4.m is the main code for upsampling and subsequent lifetime fitting. SlideWinSum.m, DownSampleBlur_2.m,and decaymodelSingle.m are functions required therein.
 
 CMOS_Raw.mat is the CMOS intensity from experiment. Spad_raw.mat is the low resolution Spad measurement.
 
